@@ -6,6 +6,7 @@ authors = ["HeberTU <heber.trujillo@glovoapp.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.5.3"
 
 [tool.poetry.dev-dependencies]
 
